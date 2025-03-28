@@ -8,7 +8,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Kpalollis&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 
-## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=Kpalollis&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
